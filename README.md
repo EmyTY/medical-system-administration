@@ -6,13 +6,6 @@
 
 **Web-based Hospital Management System** is designed to digitize hospital operations.
 
----
-
-<div align="center">
-  <img src="screenshots/dashboard.png" width="48%" alt="Dashboard">
-  <img src="screenshots/patient_record.png" width="48%" alt="Patient Record">
-</div>
-
 <br>
 
 ## 📋 Table of Contents
