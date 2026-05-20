@@ -6,23 +6,7 @@
 
 **Web-based Hospital Management System** is designed to digitize hospital operations.
 
-<br>
-
-## 📋 Table of Contents
-- [About the Project](#about-the-project)
-- [Key Features](#key-features)
-- [Benefits](#benefits)
-- [Technologies Used](#technologies-used)
-- [Sprints & Agile Development](#sprints--agile-development)
-- [Screenshots](#screenshots)
-
-## About the Project
-
 **Health Pro** is a comprehensive web application for managing a mid-sized hospital. It aims to reduce paperwork, minimize medical errors, and improve coordination between medical staff.
-
-**Developed by:**
-- Sofia Ivanova
-- Emine Yumer
 
 ## Key Features
 
@@ -65,11 +49,3 @@
 </div>
 
 
-## How to Run
-
-```bash
-git clone https://github.com/yourusername/health-pro.git
-cd health-pro
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
